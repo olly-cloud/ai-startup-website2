@@ -9,6 +9,6 @@ on a project with disrupting the main file
 ![push origin update -navigation](https://github.com/olly-cloud/ai-startup-website2/blob/6657631c1d2869ec3d28e38e87161b8d8e6ec426/push%20origin%20update-navigation.png)
 ![staged index.html updatw navigation](https://github.com/olly-cloud/ai-startup-website2/blob/130aea09401ee9df4c213beaf2b2a8701e9e6ddb/staged%20index.html%20in%20update%20-navigation.png)
 ![working on upate contact info]()
-![]()
+![update navigation branch](https://github.com/olly-cloud/ai-startup-website2/blob/b59a3bfea9588ea72c47200bec4f686c79c1be71/update-%20navigation%20brance.png)
 ![]()
 ![]()
